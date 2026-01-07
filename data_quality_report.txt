@@ -1,0 +1,18 @@
+==== DATA QUALITY REPORT ====
+
+Customers records processed: 25
+Products records processed: 20
+Sales records processed: 40
+
+Duplicates removed:
+- Customers: 1
+- Products: 0
+- Sales: 1
+
+Missing values handled:
+- Customers: 5
+- Products: 4
+- Sales: 5
+
+Load Status:
+- All cleaned records successfully loaded into database
